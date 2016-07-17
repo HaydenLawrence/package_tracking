@@ -1,7 +1,7 @@
 {
     "port": 3000,
-    "files": ["./web/**/*.{html,htm,css,js,json}"],
+    "files": ["./**/*.{html,htm,css,js,json}"],
     "server": {
-        "baseDir": "./web"
+        "baseDir": "./"
     }
 }
