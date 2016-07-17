@@ -1,0 +1,27 @@
+{
+  "name": "package_tracking",
+  "version": "0.0.1",
+  "description": "Web app to tracking packages from a variety of couriers",
+  "main": "index.html",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaydenLawrence/package_tracking.git"
+  },
+  "keywords": [
+    "package",
+    "tracking"
+  ],
+  "author": "Hayden Lawrence",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/HaydenLawrence/package_tracking/issues"
+  },
+  "homepage": "https://github.com/HaydenLawrence/package_tracking#readme"
+}
